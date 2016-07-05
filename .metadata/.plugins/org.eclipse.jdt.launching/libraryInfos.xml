@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\eclipse JUNO" version="1.8.0_45">
+<bootpath>
+<entry path="C:\eclipse JUNO\jre\lib\resources.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\rt.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\sunrsasign.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\jsse.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\jce.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\charsets.jar"/>
+<entry path="C:\eclipse JUNO\jre\lib\jfr.jar"/>
+<entry path="C:\eclipse JUNO\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\eclipse JUNO\jre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\eclipse JUNO\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
